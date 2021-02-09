@@ -1,0 +1,13 @@
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.exe
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.deps.json
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.runtimeconfig.json
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.runtimeconfig.dev.json
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.dll
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\bin\Debug\netcoreapp3.1\calc_Triangulo.pdb
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.csprojAssemblyReference.cache
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.AssemblyInfoInputs.cache
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.AssemblyInfo.cs
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.dll
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.pdb
+C:\Users\unifesp\Documents\.dotnet\Triangulo\triangulo\obj\Debug\netcoreapp3.1\calc_Triangulo.genruntimeconfig.cache
